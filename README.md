@@ -15,3 +15,5 @@ Tem de gerar o seu proprio ou comprar o certificado ssl para o browser nao dizer
 
 
 O software e disponibilizado sem licença e para uso publico
+![example1](https://user-images.githubusercontent.com/61246703/233723512-0b9bc63e-4c45-4c6d-845f-21640fa91c63.png)
+![example2](https://user-images.githubusercontent.com/61246703/233723528-db683212-9ebf-4075-98a5-6f0f3da53377.png)
